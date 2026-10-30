@@ -1,0 +1,14 @@
+C:\Projetos\NumberZ\NumberZ\bin\Debug\net10.0\NumberZ.exe
+C:\Projetos\NumberZ\NumberZ\bin\Debug\net10.0\NumberZ.deps.json
+C:\Projetos\NumberZ\NumberZ\bin\Debug\net10.0\NumberZ.runtimeconfig.json
+C:\Projetos\NumberZ\NumberZ\bin\Debug\net10.0\NumberZ.dll
+C:\Projetos\NumberZ\NumberZ\bin\Debug\net10.0\NumberZ.pdb
+C:\Projetos\NumberZ\NumberZ\obj\Debug\net10.0\NumberZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\NumberZ\NumberZ\obj\Debug\net10.0\NumberZ.AssemblyInfoInputs.cache
+C:\Projetos\NumberZ\NumberZ\obj\Debug\net10.0\NumberZ.AssemblyInfo.cs
+C:\Projetos\NumberZ\NumberZ\obj\Debug\net10.0\NumberZ.csproj.CoreCompileInputs.cache
+C:\Projetos\NumberZ\NumberZ\obj\Debug\net10.0\NumberZ.dll
+C:\Projetos\NumberZ\NumberZ\obj\Debug\net10.0\refint\NumberZ.dll
+C:\Projetos\NumberZ\NumberZ\obj\Debug\net10.0\NumberZ.pdb
+C:\Projetos\NumberZ\NumberZ\obj\Debug\net10.0\NumberZ.genruntimeconfig.cache
+C:\Projetos\NumberZ\NumberZ\obj\Debug\net10.0\ref\NumberZ.dll

@@ -1,0 +1,14 @@
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\bin\Debug\net10.0\PrimeirosPassos.exe
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\bin\Debug\net10.0\PrimeirosPassos.deps.json
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\bin\Debug\net10.0\PrimeirosPassos.runtimeconfig.json
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\bin\Debug\net10.0\PrimeirosPassos.dll
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\bin\Debug\net10.0\PrimeirosPassos.pdb
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\obj\Debug\net10.0\PrimeirosPassos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\obj\Debug\net10.0\PrimeirosPassos.AssemblyInfoInputs.cache
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\obj\Debug\net10.0\PrimeirosPassos.AssemblyInfo.cs
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\obj\Debug\net10.0\PrimeirosPassos.csproj.CoreCompileInputs.cache
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\obj\Debug\net10.0\PrimeirosPassos.dll
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\obj\Debug\net10.0\refint\PrimeirosPassos.dll
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\obj\Debug\net10.0\PrimeirosPassos.pdb
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\obj\Debug\net10.0\PrimeirosPassos.genruntimeconfig.cache
+C:\Projetos\PrimeirosPassos\PrimeirosPassos\obj\Debug\net10.0\ref\PrimeirosPassos.dll
